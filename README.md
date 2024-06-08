@@ -1,8 +1,6 @@
 # Morse Code Translator
 ---
-## The Morse Code Translator is a mini project designed to provide users with the ability to translate text to Morse code and vice versa. Implemented in Java and utilizing 
-a PostgreSQL database, the project offers user registration, login functionality, and a user-friendly dashboard. The frontend is designed using Java Swing, while the backend 
-relies on PostgreSQL and JDBC drivers.
+The Morse Code Translator is a mini project designed to provide users with the ability to translate text to Morse code and vice versa. Implemented in Java and utilizing a PostgreSQL database, the project offers user registration, login functionality, and a user-friendly dashboard. The frontend is designed using Java Swing, while the backend relies on PostgreSQL and JDBC drivers.
 ---
 
 ## Operating Environment Hardware and Software
