@@ -10,7 +10,7 @@ public class DashBoards extends JFrame {
         DashBoards.username=username;
         System.out.print(username);
         // Set up the main frame
-        ImageIcon icon = new ImageIcon("C:\\Users\\soham\\OneDrive\\Documents\\morse code project\\src\\images\\icon.png");
+        ImageIcon icon = new ImageIcon("D:\\projects\\Morse Code Translator\\images\\icon.png");
         this.setIconImage(icon.getImage());
         setBackground(Color.decode("#457B9D"));
 
